@@ -5,4 +5,7 @@
     <string name="make_it_rain">Make It Rain</string>
     <string name="show_info">Show Info</string>
     <string name="app_info">getRichQuick</string>
+    <string name="youRichThreshhold">YOU SO RICH!!!</string>
+    <string name="gettingUpThresh">You are getting up there!</string>
+    <string name="makingSomeThreshold">Making Some Money!</string>
 </resources>
