@@ -22,8 +22,8 @@
 
     <TextView
         android:id="@+id/moneyValue"
-        android:layout_width="155dp"
-        android:layout_height="48dp"
+        android:layout_width="243dp"
+        android:layout_height="52dp"
         android:gravity="center"
         android:text="@string/money_value"
         android:textSize="36sp"
@@ -39,6 +39,7 @@
         android:layout_width="158dp"
         android:layout_height="60dp"
         android:text="@string/make_it_rain"
+        android:onClick="showMoney"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -51,6 +52,7 @@
         android:layout_height="56dp"
         android:gravity="center"
         android:text="@string/show_info"
+        android:onClick="showInfo"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
